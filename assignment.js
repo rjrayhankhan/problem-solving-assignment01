@@ -1,3 +1,6 @@
+//github link: https://github.com/rjrayhankhan/problem-solving-assignment01
+
+
 //Program For calculation "kilometer to meter" Lest Start>>>==============================
 
 function kilometerToMeter(kilometer) {
@@ -67,5 +70,5 @@ function megaFriend(friends) {
     return numberOfArrayFriend;
 }
 
-var resultTinyFriend = megaFriend(["sunny", "hanif", "salma", "Robiul", "Kamal Hossain"]);
-console.log(resultTinyFriend);
+var Friend = megaFriend(["sunny", "hanif", "salma", "Robiul", "Kamal Hossain"]);
+console.log(Friend);
